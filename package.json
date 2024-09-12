@@ -2,7 +2,7 @@
     "name": "tech-global-launch",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://thiagopc02.github.io/Tech-Global/",
+    "homepage": "https://thiagopc02.github.io/Tech-Global",
     "dependencies": {
       "framer-motion": "^11.5.4",
       "react": "^18.3.1",
