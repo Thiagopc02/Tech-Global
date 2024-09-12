@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6cda4e8.css",
-    "main.js": "/static/js/main.ae98093b.js",
-    "static/media/img3.jpg": "/static/media/img3.a5865fbf8f0613eaa009.jpg",
-    "static/media/img2.jpg": "/static/media/img2.2d2b259dbbbe595bf521.jpg",
-    "static/media/img1.jpg": "/static/media/img1.bda64ed61382011dc132.jpg",
-    "static/media/logo.png": "/static/media/logo.374206d71e904dd3ba63.png",
-    "index.html": "/index.html",
-    "main.d6cda4e8.css.map": "/static/css/main.d6cda4e8.css.map",
-    "main.ae98093b.js.map": "/static/js/main.ae98093b.js.map"
+    "main.css": "/Tech-Global/static/css/main.d6cda4e8.css",
+    "main.js": "/Tech-Global/static/js/main.dcb2c0e0.js",
+    "static/media/img3.jpg": "/Tech-Global/static/media/img3.a5865fbf8f0613eaa009.jpg",
+    "static/media/img2.jpg": "/Tech-Global/static/media/img2.2d2b259dbbbe595bf521.jpg",
+    "static/media/img1.jpg": "/Tech-Global/static/media/img1.bda64ed61382011dc132.jpg",
+    "static/media/logo.png": "/Tech-Global/static/media/logo.374206d71e904dd3ba63.png",
+    "index.html": "/Tech-Global/index.html",
+    "main.d6cda4e8.css.map": "/Tech-Global/static/css/main.d6cda4e8.css.map",
+    "main.dcb2c0e0.js.map": "/Tech-Global/static/js/main.dcb2c0e0.js.map"
   },
   "entrypoints": [
     "static/css/main.d6cda4e8.css",
-    "static/js/main.ae98093b.js"
+    "static/js/main.dcb2c0e0.js"
   ]
 }
